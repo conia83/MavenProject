@@ -4,5 +4,6 @@ public class Hello {
 
         System.out.println("Hello");
         System.out.println("Developing hello feature");
+        System.out.println("Local repo is published ro github");
     }
 }
